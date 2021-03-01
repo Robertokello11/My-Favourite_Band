@@ -1,6 +1,6 @@
 # Music Band
 ## Author
-Hamida Mstafa
+Robert Okello
 ## Description
 Its a website that expalins more about my fev music band 
 ### Prerequisites
