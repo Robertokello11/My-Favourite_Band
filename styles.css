@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: 100;
+    border-style: solid;
+    border-color: blue;
+}
+p{
+    font-style: italic;
+}
+li{
+    font-style: oblique;
+    font-family: 'caligraphy';
+    text-align: left;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
